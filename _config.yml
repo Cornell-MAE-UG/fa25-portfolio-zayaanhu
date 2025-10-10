@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Zayaan Hussain
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Zayaan Hussain
+description              : Zayaan Hussain - Projects and CV 
 baseurl                  : "/spring-2025-portfolio-zsh7/" # Set this to your repo name 
 
 # Theme and Style
