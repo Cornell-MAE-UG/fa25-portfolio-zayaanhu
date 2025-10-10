@@ -6,7 +6,7 @@ title: <Zayaan Hussain>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/headshot.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I am a current sophomore studying biomedical engineering in the college of engineering here at Cornell University. I am deeply interested in biomechanics, medicine, finance, and innovation. Outside of academics, I am a swimmer and enjoy trying new foods, exploring new places, spending time with friends, and driving.
